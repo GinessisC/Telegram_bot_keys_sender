@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Projects\TestForTutorial\TestForTutorial\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddReselerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateKeyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteDiscountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditKeyInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MakeDiscountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
