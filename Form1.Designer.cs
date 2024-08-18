@@ -53,7 +53,7 @@
             // createChitKeypictureBox
             // 
             createChitKeypictureBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            createChitKeypictureBox.Image = global::TestForTutorial.Properties.Resources.Pen;
+            createChitKeypictureBox.Image = global::Telegram_bot_keys_sender.Properties.Resources.Pen;
             createChitKeypictureBox.Location = new System.Drawing.Point(895, 12);
             createChitKeypictureBox.Name = "createChitKeypictureBox";
             createChitKeypictureBox.Size = new System.Drawing.Size(62, 62);
